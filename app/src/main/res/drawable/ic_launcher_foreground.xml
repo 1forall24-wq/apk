@@ -1,0 +1,17 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Simple two-tone compass-needle mark, sized to sit inside the
+         adaptive-icon safe zone (a 66dp circle centered at 54,54). -->
+    <path
+        android:pathData="M54,20 L76,54 L32,54 Z"
+        android:fillColor="#F6F8FD" />
+    <path
+        android:pathData="M54,88 L76,54 L32,54 Z"
+        android:fillColor="#141A2E" />
+    <path
+        android:pathData="M50,50 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0"
+        android:fillColor="#DC4A38" />
+</vector>
